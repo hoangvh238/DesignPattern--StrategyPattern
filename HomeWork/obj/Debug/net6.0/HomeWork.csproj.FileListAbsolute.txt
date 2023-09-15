@@ -1,0 +1,21 @@
+D:\PRN211\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.exe
+D:\PRN211\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.deps.json
+D:\PRN211\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.runtimeconfig.json
+D:\PRN211\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.dll
+D:\PRN211\HomeWork\HomeWork\bin\Debug\net6.0\HomeWork.pdb
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfoInputs.cache
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfo.cs
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.csproj.CoreCompileInputs.cache
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.dll
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\refint\HomeWork.dll
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.pdb
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\HomeWork.genruntimeconfig.cache
+D:\PRN211\HomeWork\HomeWork\obj\Debug\net6.0\ref\HomeWork.dll
+D:\PRN211\Strategy Pattern\HomeWork\obj\Debug\net6.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Strategy Pattern\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfoInputs.cache
+D:\PRN211\Strategy Pattern\HomeWork\obj\Debug\net6.0\HomeWork.AssemblyInfo.cs
+D:\PRN211\Strategy Pattern\HomeWork\obj\Debug\net6.0\HomeWork.csproj.CoreCompileInputs.cache
+D:\PRN211\Strategy Pattern\HomeWork\obj\Debug\net6.0\HomeWork.dll
+D:\PRN211\Strategy Pattern\HomeWork\obj\Debug\net6.0\refint\HomeWork.dll
+D:\PRN211\Strategy Pattern\HomeWork\obj\Debug\net6.0\HomeWork.pdb
